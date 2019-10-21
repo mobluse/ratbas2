@@ -1,4 +1,4 @@
-# RatBAS
+# RatBAS2
 Rational BASIC ─ gives C-like structures to BASIC with only GOTO ─ Uses RatFOR (Rational Fortran).
 
 Convert from RasBAS2 (RatFOR with BASIC V2 in the lines) into BASIC with labels:
