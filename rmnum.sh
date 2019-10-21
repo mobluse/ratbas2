@@ -3,7 +3,7 @@
 # It can often be converted back with another program.
 # This program should also handle ON n GOTO and ON n GOSUB.
 # Copyright (C) 2019-OCT-10 by Mikael Bonnier, Lund, Sweden.
-# License GPLv3. Absolutely no warranty.
+# Absolutely no warranty. See LICENSE file.
 
 cp $1 $1.non # non = No Number
 
